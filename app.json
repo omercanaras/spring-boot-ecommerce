@@ -1,0 +1,12 @@
+{
+  "name": "ecommerce-canaras",
+
+  "buildpacks":
+  [
+    {
+      "url": "heroku/gradle"
+    }
+
+  ]
+}
+
